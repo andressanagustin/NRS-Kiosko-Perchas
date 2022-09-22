@@ -1,0 +1,9 @@
+###
+GET http://localhost:8082/WS_KIOSCO_PRECIOS/WS_KIOSCO_PRECIOS.asmx/slt_gn_centro
+
+###
+POST http://localhost:8082/WS_KIOSCO_PRECIOS/WS_KIOSCO_PRECIOS.asmx/slt_producto
+Content-Type: application/x-www-form-urlencoded;
+
+ALIAS_USR=25731&CLAVE_USR=2704
+
